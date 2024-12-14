@@ -11,6 +11,7 @@
 # Versão: 1.01
     # Foi adicionado um parâmetro para versionamento.
     # Foi adicionada a opção de criar também link fisíco.
+    # Agora ele verifica se é root para instalar Zenity
 
 #=============================================================================#
 # Copyright (C) <2024>  <aguamole>
